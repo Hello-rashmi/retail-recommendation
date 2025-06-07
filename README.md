@@ -1,30 +1,30 @@
 # retail-recommendation
 A product recommendation system using customer purchase history with Python, EDA, and item-based collaborative filtering
 
-# 🛍️ Online Retail Recommendation System
+# Online Retail Recommendation System
 
 This project demonstrates the development of a basic product recommendation system for an online retail platform using customer transaction history. The aim is to provide relevant product suggestions and gain insights into customer behavior and sales performance.
 
 ---
 
-## 📌 Project Features
+## Project Features
 
-- 📊 Exploratory Data Analysis (EDA)
+-  Exploratory Data Analysis (EDA)
   - Top 10 Customers
   - Top 10 Best-Selling Products
   - Country-wise Sales Analysis
   - Top Product Pairs Frequently Bought Together
 
-- 🤖 Item-Based Collaborative Filtering
+-  Item-Based Collaborative Filtering
   - Cosine Similarity Calculation
   - Top-N Product Recommendations
   - Binary User-Item Matrix
 
-- 📈 Visualizations using `Matplotlib` and `Seaborn`
+-  Visualizations using `Matplotlib` and `Seaborn`
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used comes from a historical online retail store. It includes the following fields:
 
@@ -37,11 +37,11 @@ The dataset used comes from a historical online retail store. It includes the fo
 - CustomerID
 - Country
 
-> 📥 The original dataset is available in `.xlsx` format and was uploaded via Google Drive or Google Sheets.
+>  The original dataset is available in `.xlsx` format and was uploaded via Google Drive or Google Sheets.
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Language**: Python
 - **Libraries**: pandas, numpy, scikit-learn, matplotlib, seaborn
@@ -49,7 +49,7 @@ The dataset used comes from a historical online retail store. It includes the fo
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Data Preprocessing**
    - Handle missing values
